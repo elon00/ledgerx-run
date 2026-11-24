@@ -1,6 +1,0 @@
-﻿[package]
-name = "ledgerx-run"
-version = "1.0.0"
-edition = "2021"
-
-[dependencies]
